@@ -1,0 +1,138 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <title>咨询师的风格——西安心理咨询师</title><link rel="stylesheet" href="../../../Public/css/public.css" type="text/css" />
+<link rel="stylesheet" href="../../../Public/css/response.css" type="text/css" />
+<script type="text/javascript" src="../../../Public/js/jquery-1.8.0.min.js"></script>
+ <!--<script type="text/javascript" src="/Public/js/index.js"></script>-->
+<script src="https://cdn.bootcss.com/flexslider/2.6.4/jquery.flexslider-min.js"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?1116e99ce7e5027bf84da9e356a7a16e";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/Public/js/html5shiv.js"></script>
+<![endif]-->
+</head>
+<body>
+<!--头部开始-->
+<div class="header">
+	<div class="top-info">
+    	<a href="53#">158 9170 2634</a>
+        <a href="53#">flhs228</a>
+        <a href="53#">1603869451</a>
+    </div>
+    <div class="comName"><span>在线心理咨询</span></div>
+    <!--手机导航开始-->
+    <div class="nav2">
+        <dl class="layout1Dl">
+            <dt class="layout1Dt">
+                <a href="53#">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+            </dt>
+            <dd class="layout1Dd">
+                <a href="../../../index.html">首页</a>
+                <a href="../../counselor">咨询介绍</a>
+                <a href="../../service">服务内容</a>
+                <a href="../../feedback">真实反馈</a>
+                <a href="../../news.1">知识文章</a>
+                <a href="../../contact">寻找同道</a>
+            </dd>
+        </dl>
+    </div>
+    <!--手机导航结束-->
+    <div class="nav">
+    	<ul>
+        	<li><a href="../../index">首页</a></li>
+            <li><a href="../../counselor">咨询介绍</a></li>
+            <li><a href="../../service">服务内容</a></li>
+            <li><a href="../../feedback">真实反馈</a></li>
+            <li class="activeN"><a href="../../news.1">知识文章</a></li>
+            <li><a href="../../contact">寻找同道</a></li>
+        </ul>
+    </div>
+</div>
+<!--头部结束-->
+<!--焦点图开始-->
+<div class="flexslider">
+    <ul class="slides">
+        <li><a href="javascript:;" style="background:url('../../../Public/img/banner-1.jpg') no-repeat center top;background-size:auto 100%;"></a></li>
+        <li><a href="javascript:;" style="background:url('../../../Public/img/banner-1.jpg') no-repeat center top;background-size:auto 100%;"></a></li>
+    </ul>
+</div>
+<script>
+$(function(){
+    $('.flexslider').flexslider({
+        directionNav: false,
+        pauseOnAction: false,
+        touch:true,
+        slideshowSpeed:3000
+    });
+});
+</script>
+<!--焦点图结束-->
+<!--内容开始-->
+<div class="container">
+	<div class="left-Cont">
+    	<h2>知识文章</h2>
+        <a class="activeL" href="../../news/cate/1">咨询案例  &gt;</a>
+        <a href="../../news/cate/0">咨询理论  &gt;</a>
+        <div></div>
+    </div>
+
+    <div class="right-Cont">
+        <div class="crumbNav"><a href="53#">首页</a><span>&gt;</span><a href="53#">咨询理论</a></div>
+        <div class="lawCont">
+        	<h1>咨询师的风格——西安心理咨询师</h1>
+            <div class="lawContInfo">
+            	<span>来源：</span>
+                <span>发表时间：2018-01-04 11:01:49</span>
+            </div>
+            <div class="lawContDiv">
+                <p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">经过数十年的治疗实践，我已经从一个主动的挑战者</span><span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">——对抗、指导、控制——转向更柔和的风格，其中，我可以运用幽默、接纳、支持、建议、引导等方法，去达到以前需要运用犀利的风格才能达到的目标。我已经从指导者转变成为一个协作者，不过，我并没有放弃作为一个专家的角色；从所植根的社会情境去看家庭和人类，转向于观察家庭系统和个人的精神世界，但并没有丧失对其相互影响的警觉；从目不旁视地关注现在，到探索过去的影响，不过，目标依然在于促进现在的改变。这些变化使得我的风格更为复杂，也更加色彩纷呈。</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;&nbsp;<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">通过这些转变，有些行为和某些词汇，已经变成了我的商标。现在我将与你一起分享这些词汇和行为，希望你能在合适的时候借用。</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;</p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 28px;"><span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">非言语干预</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;&nbsp;<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">我采用空间作为情绪亲近程度的标志。例如，正如你稍后将看到的一样，我在治疗中要求</span>Sara-<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">我在西班牙看到的那位年轻的</span><span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">“父母化了的女儿”—将她的椅子从她的家庭移开，这是一种暗示独立的方式。我常常会这样做。我要求那个奥地利家庭的母亲做同样的事情，而且有时我要求某个疏离</span>(discngagcd)<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">的家庭成员与另外的成员坐得更近一些。这是一种简单的干预，无论是成年人还是儿童，都容易领会。再者，因为要求人们搬动他们的椅子，本身便提供了一个无言的建议，家庭成员可以对此赋予他们自己的意义。</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;&nbsp;<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">在访谈幼童时，我常常要求他们站起来，站在父母旁边；有时我也会要求父母将孩子抱在怀里。如果我访谈的对象是所谓的</span><span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">“不可救药</span>(impossible)<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">”的幼童时，我会要求他们击打我张开的手掌，并且坚持让他们使出浑身的力气，直到筋疲力尽为止。这样做是在以生动的方式提醒人们：与他们的父母亲比起来，孩子并非那么身强力壮，并非真正有那么大的能耐。</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;</p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 28px;"><span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">隐喻的运用</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 28px;"><span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">在治疗中使用隐喻</span>(metaphor)<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">，既能使治疗师挑战家庭成员，但又不会让他们觉得需要自我防卫。例如，建议一位父亲应该对其女儿更温和一些，因为</span><span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">“他的声音那么强悍，而她的声音却那么柔弱”；这种方式要比直接告诉父亲——他在用压制的方式胁迫她——更容易让父亲接受一些。一个精心挑选的隐喻，可以揭穿家庭貌似优雅的假象。有些家庭的孩子深深陷入父母之间的冲突中，对这样的家庭，询问“谁是这个家庭的家长”，可以让一些事实的呈现变得非常清晰和迅速。接下来可以询问：哪么你的配偶是副家长还是辩护律师？”由此便可以帮助完成整个画像。</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">我常常用我称之为</span><span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">‘胡萝卜加大棒</span>(astrokeandakick)<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">”的两步挑战的方式，来表达我希望引起改变的建议。例如，“你很聪明</span>(clever)<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">，但不明智</span>(wise)o<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">”或者‘虽然你很疼爱也很保护你的孩子，但你为什么听不到你说的话</span>(<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">或者看不到你所做的事</span>)<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">对他或她造成了伤害</span>?<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">”或者倚怪的是，一些充满关爱的家庭，为何往往会像瞎子一样视而不见</span>?<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">”等等。</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;&nbsp;<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">正如你将要看到的一样，在本书中我不止一次地说过</span>:<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">援是一只金制的鸟笼</span><span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">……因为它是金制的，人们并未意识到它是一只笼子……但它的确是一只笼子……你没有办法飞走。”这种干预方法已经取代了我先前对缠结</span>(enmeshment)<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">的挑战，以前的挑战有时候听起来像是一种责怪，也像是需要做出改变的要求。</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;&nbsp;<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">至于孩子与父母之间的循环效应，我会说</span>:<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">“父母既是狱卒，也是囚徒一</span>-ff<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">孩子既是囚徒，也是狱卒。</span><span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">”“孩子抛出鱼饵，父母便咬住，就像鱼一样被他们的孩子捕获……钓鱼人和鱼之间存在一个环路，你们在这两者之间游弋，时而是钓鱼人，时而是鱼。”</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;&nbsp;<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">对于</span><span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">“哪里有难处，哪里就有他或她”，并因此而操劳过度的热心肠的人，正如</span>Martinez<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">家的那个母亲，我或许会说</span>:<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">“印度教</span>(<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">或墨西哥或希腊或基督教</span>)<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">的女神有八只臂膀。你只有两只，但你却认为你有八只</span><span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">……你不知道如何去寻求帮助……你不会委派他人做你的代表。”</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;&nbsp;<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">至于缠结的父亲或母亲和疏离的伴侣之间的动力关系，可以借助以下提问的方式将其引入正题</span>:<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">‘你是什么时候与你的伴侣离婚，而娶了或嫁给这些孩子的</span>?<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">”对于没有孩子的夫妻，这种隐喻的变通方式可以包括诸如“你是什么时候与你的伴侣离婚，而娶了或嫁给你的事业或者网球拍的</span>?<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">”这样的一些问题。</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;&nbsp;<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">有效的挑战，是对人们的行为及其后果的描述。不过，为了让来访者接受治疗师为他们指出的问题，治疗师不应让他们感到遭受冷嘲热讽。例如，在指出某些问题之前，我们常常会说“那很有趣</span><span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">……”，这是为了激起他们对话题的好奇心，而不是为他们创造一个借以自卫的时机。</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;&nbsp;<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">而且，虽然这样费尽心机地告诉人们，他们应该做什么，但这样做，却也大大减少了他们学会观察自己的所作所为及其后果的可能性。</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;&nbsp;<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">如果我访谈的是一对夫妻，我倾向于说</span>:<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">“你不能改变你自己，但你可以改变你的伴侣。你需要他或她做出什么样的改变，你的生活才会变得容易一些</span>?<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">”接下来，我会拿出一根“魔术棒</span>(magicwand)<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">”</span>(<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">一支铅笔或类似的东西），并要求他们其中一人看着他或她的配偶，就像一位雕塑家看着一块大理石一样，边思考边说出对方应该做出哪些改变。我或许会根据阴</span><span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">—阳理论做出评论，通过改变整体的背景或情境，才有可能改变其他人或事物。</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;</p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;&nbsp;<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">将焦点放置于家庭，并将其视为理解其成员发展和修正有关自我和他人概念的情境，观察家庭成员的经验和行为对家庭的影响力，仍然是系统式家庭治疗</span>(systemicfamilytherapy)<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">的核心所在。</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;&nbsp;<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">随着时间的流逝，家庭治疗领域已经做出了相应的改变，并且已经对其早期的视觉盲点</span>(scotomas)<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">进行了修正。与此同时，结构式家庭治疗也已经发展出一种新型的广角透镜</span>((lens)<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">，包括将个体视为一个心理单元</span>(psychologicalunit)<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">，也包括将探索过去作为理解现在的一种方式。本书所描述的四步模式，是我与家庭治疗领域一起成长的结果，代表着更为广泛的愿景</span>(vistas)<span style="-webkit-tap-highlight-color: transparent; font-family: 宋体;">，而随着时间的流逝、思想的改变和经验的积累，这些愿景已经触手可及。</span></p><p style="-webkit-tap-highlight-color: transparent; margin-top: 0px; margin-bottom: 25px; padding: 0px; color: rgb(51, 51, 51); font-family: &#39;Microsoft Yahei&#39;, Arial, tahoma; line-height: 24px; white-space: normal; background-color: rgb(255, 255, 255);">&nbsp;</p><p><br/></p>            </div>
+            <div class="aboutCont">
+                            下一篇：<a href="54">家庭治疗的背景知识知多少？</a><br/>            </div>
+        </div>    </div>
+
+</div>
+
+<!--内容结束-->
+<!--footer开始-->
+<div class="footer">
+	<div class="footerMain">
+    	<div class="f-left"><p>在线咨询，扫一扫！</p><img src="../../../Public/images/xinli.jpg" /></div>
+        <div class="f-right">
+        	<h2>在线心理咨询</h2>
+            <h3>158 9170 2634</h3>
+            <p>QQ：1603869451&nbsp;&nbsp;&nbsp;微信：flhs228&nbsp;&nbsp;&nbsp;邮箱：1603869451@qq.com</p>
+            <p>备案号：beianbeianbeian</p>
+            <p>Copyright © 2016.版权版权</p>
+            <p>技术支持：kkkkkk</p>
+        </div>
+    </div>
+</div>
+<!--footer结束-->
+<!--友情链接开始-->
+<div class="friendMain">
+  <div class="container">
+	<div class="indexTeam">
+        <ul class="friendLinks">
+           
+      	</ul>
+    </div>
+  </div>
+</div>
+<!--友情链接结束-->
+</body>
+</html>

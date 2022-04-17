@@ -1,0 +1,138 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <title>不抱怨，是一种高级的精神自律</title><link rel="stylesheet" href="../../../Public/css/public.css" type="text/css" />
+<link rel="stylesheet" href="../../../Public/css/response.css" type="text/css" />
+<script type="text/javascript" src="../../../Public/js/jquery-1.8.0.min.js"></script>
+ <!--<script type="text/javascript" src="/Public/js/index.js"></script>-->
+<script src="https://cdn.bootcss.com/flexslider/2.6.4/jquery.flexslider-min.js"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?1116e99ce7e5027bf84da9e356a7a16e";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/Public/js/html5shiv.js"></script>
+<![endif]-->
+</head>
+<body>
+<!--头部开始-->
+<div class="header">
+	<div class="top-info">
+    	<a href="76#">158 9170 2634</a>
+        <a href="76#">flhs228</a>
+        <a href="76#">1603869451</a>
+    </div>
+    <div class="comName"><span>在线心理咨询</span></div>
+    <!--手机导航开始-->
+    <div class="nav2">
+        <dl class="layout1Dl">
+            <dt class="layout1Dt">
+                <a href="76#">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+            </dt>
+            <dd class="layout1Dd">
+                <a href="../../../index.html">首页</a>
+                <a href="../../counselor">咨询介绍</a>
+                <a href="../../service">服务内容</a>
+                <a href="../../feedback">真实反馈</a>
+                <a href="../../news.1">知识文章</a>
+                <a href="../../contact">寻找同道</a>
+            </dd>
+        </dl>
+    </div>
+    <!--手机导航结束-->
+    <div class="nav">
+    	<ul>
+        	<li><a href="../../index">首页</a></li>
+            <li><a href="../../counselor">咨询介绍</a></li>
+            <li><a href="../../service">服务内容</a></li>
+            <li><a href="../../feedback">真实反馈</a></li>
+            <li class="activeN"><a href="../../news.1">知识文章</a></li>
+            <li><a href="../../contact">寻找同道</a></li>
+        </ul>
+    </div>
+</div>
+<!--头部结束-->
+<!--焦点图开始-->
+<div class="flexslider">
+    <ul class="slides">
+        <li><a href="javascript:;" style="background:url('../../../Public/img/banner-1.jpg') no-repeat center top;background-size:auto 100%;"></a></li>
+        <li><a href="javascript:;" style="background:url('../../../Public/img/banner-1.jpg') no-repeat center top;background-size:auto 100%;"></a></li>
+    </ul>
+</div>
+<script>
+$(function(){
+    $('.flexslider').flexslider({
+        directionNav: false,
+        pauseOnAction: false,
+        touch:true,
+        slideshowSpeed:3000
+    });
+});
+</script>
+<!--焦点图结束-->
+<!--内容开始-->
+<div class="container">
+	<div class="left-Cont">
+    	<h2>知识文章</h2>
+        <a class="activeL" href="../../news/cate/1">咨询案例  &gt;</a>
+        <a href="../../news/cate/0">咨询理论  &gt;</a>
+        <div></div>
+    </div>
+
+    <div class="right-Cont">
+        <div class="crumbNav"><a href="76#">首页</a><span>&gt;</span><a href="76#">咨询理论</a></div>
+        <div class="lawCont">
+        	<h1>不抱怨，是一种高级的精神自律</h1>
+            <div class="lawContInfo">
+            	<span>来源：王者</span>
+                <span>发表时间：2018-04-19 15:00:00</span>
+            </div>
+            <div class="lawContDiv">
+                <p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);"><strong>除了身体自律,精神自律更为高级和难得,而不抱怨就是一种十分高级的精神自律。</strong><strong style="font-size: 1em;">&nbsp;</strong><br data-filtered="filtered"/></p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);"><span style="word-break: break-all; word-wrap: break-word; background-color: rgb(165, 165, 165);"><strong>&nbsp; 01 &nbsp;</strong></span></p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">最近,我真的有点怕看到学妹小琳的微信提醒。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">因为这几个星期以来,几乎每天她都会找我吐槽,抱怨自己在工作中受到的诸多“不公平待遇”。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">刚开始,我还会耐心地倾听,并以过来人的身份给一些<a href="../../../index.html" target="_blank" title="心理咨询">建议</a>,但时间长了,我发现,自己的建议非但丝毫没有被小琳采纳,而且她身上的负能量越来越重,重到已经快要影响我的正常情绪了。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">都是些什么抱怨呢,无非是今天哪位同事又排挤她了,谁谁谁又对她说了什么难听的话,安排她做明明不是她负责的工作……总之就是工作环境无论从硬件还是软件来说都对她不利,让她压抑。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">后来,我索性不再发表意见,只是附和性地回复几句,实在受不了了就直接和她说:“那你换工作吧。”</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">没想到小琳听到我这样的回复十分吃惊,说我不知道现在找工作有多么不容易,也没有站在她的角度考虑问题,才会说得如此轻巧。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">“你知道吗,没有光鲜的履历,即使跳槽也找不到好公司的,现在的职场对年轻人要求太高了……”接下来又是新一轮对就业情况的抱怨。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">小琳才毕业工作半年,应该正是充满活力干劲、越挫越勇,对未来满腹希冀的时候,可是她却表现得像一个看破世事的怨妇,不愿改变,不想努力,只是一味地对身边人宣泄着自己的不满,然后接着迷茫和停滞。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">这样的小琳,就像充斥着情绪垃圾的火球,让人害怕,只想远离。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">和小琳颇有几分相似的还有朋友怡,只不过她抱怨的不是工作而是婚姻。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">逢人就说老公对她如何不好,平时过节过生日,老公从不给她买任何礼物,家里的开销也不舍得出,常常一言不合就冷暴力。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">备受情感摧残,还要承担来自工作和家庭的双重压力,让怡身心俱疲。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">每次朋友聚会上,只要有怡的身影,就一定会有她不幸的婚姻故事,听了一遍又一遍,大家起初都对怡充满了同情,平时有聚会都主动喊上她,想着让她出来透透气心情也许会好些。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">可是怡每次都会和大家抱怨她的婚姻,搞得现场的气氛很压抑,久而久之,同情变为了厌恶,大家都自觉地不再通知怡来参加聚会了。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">毕竟朋友们出来玩,本来就是为了放松开心一下,谁愿意总是听抱怨?</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">只知道抱怨的人其实都是自私的,他们并不会分场合选择聊天话题,自己一饱倾诉之苦的同时,却忽略了对方的感受,平白无故地消耗了别人的情感和时间。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);"><strong>控制不了自己情绪和状态的人,很难过好这一生。</strong></p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);"><span style="word-break: break-all; word-wrap: break-word; text-decoration: underline;">人生不如意十之八九,同一件事情,抱怨一两次是完全可以理解的,但反复多次的抱怨,只能说明抱怨的人根本不想做出改变,起码不愿主动改变,这样的人没有自律可言,更难以想象能争取到自己想要的未来。</span></p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);"><span style="word-break: break-all; word-wrap: break-word; background-color: rgb(165, 165, 165);"><strong>&nbsp; 02 &nbsp;</strong></span></p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">每个人身边可能都出现过像小琳或是怡这样爱抱怨的人,他们可能有男有女,有老有少,或是抱怨工作、或是婚姻、或是孩子,看似有着诸多不同,但其实都有一个共同的特点:不自律。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);"><strong>何为自律?</strong></p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">知乎上有一个热门话题:<strong>高度自律是种怎样的体验?</strong></p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">关于这个问题的大多数回答,都是描述身边的人们是如何雷打不动,坚持规律的作息,或是为完成自己的目标而严格执行计划,比如:健身、早起、写作、读书、护肤等。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">这些积极的“身体性”的事情,要几十年如一日地做,并且做得卓有成效的确是件不容易的事。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">但在我看来<strong>,除了身体自律,精神自律更为高级和难得,而不抱怨就是一种十分高级的精神自律。</strong></p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">我们常常能克制自己不恶语重伤他人,殊不知过多的抱怨也是一种伤人伤己的语言恶习。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">这恶习的产生源头,通常有两种。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);"><strong>一种是逃避,</strong>企图夸大自己处境的恶劣程度,通过语言说服自己和他人。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">在当下的情况,努力和不努力的结果都是一样,同时希望得到别人的同情,来加深自己的不幸感,心安理得地继续在“困境”中表演挣扎,其实内心根本不想抗争。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);"><strong>还有一种是自弃</strong>,是尝试改变无果后的心理失衡,自己已经开始泄气,但是又觉得不甘,于是甩锅给环境和某些“阻碍”自己前进的人,仿佛这样就无责一身轻了。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">他们的抱怨是在告诉别人:不是我自己不努力,只是困难太多无法战胜,所以干脆放弃抗争好了,这样的人,有一点试图改变命运的行动力,但远远不够。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">对一个心态积极正面的人来说,抱怨是种正常的自我放松,但就像熬夜唱K,只会偶尔为之。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">如果任由自己长期处于这样的放松状态,就真的会提不起劲来了。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">对于明知不对的事情,哪怕正常合理也应该克制,就好像我们不能一味地放纵自己的食欲和惰性一样。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">阳子是我大学时期很崇拜的一位学霸学姐,她是绝对的正能量人士,但偶尔也会抱怨,只是偶尔。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">我们曾经聊过抱怨相关的话题,学姐说自己也会有负能量爆棚的时候,但第一反应往往都是尽量克制自己不去抱怨,怨气是可以用很多种方式排遣的,比如用其他积极的事情来覆盖它,或是争取用实际行动去化解。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">学姐明白,抱怨非但不能解决问题,反而会有一定的破坏力,把先前好不容易积攒的正能量打散,让自己内心摇摆不定。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);"><span style="word-break: break-all; word-wrap: break-word; background-color: rgb(165, 165, 165);"><strong>&nbsp; 03 &nbsp;</strong></span></p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">如何才能改掉爱抱怨的习惯呢?</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">富兰克林曾在自传中写道:<strong>“我未曾见过一个早起、勤奋、谨慎、诚实的人抱怨命运不好。”</strong></p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">说回到知乎上的那个热门话题,花一些时间浏览回答,你会发现,其实自律的人所坚持的生活,并没有多高难度,难的是很多件自律的事情一起做,长期做。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);"><strong>那些真正自律的人,会合理安排自己的时间,让自己忙起来,忙到根本无暇去抱怨。</strong></p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">多听多看少讲话,他们的心里压根就容不下那些鸡毛蒜皮的小事,装的都是些让人兴奋的目标和理想。他们的时间和精力都花在感受美好,和创造美好上了。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">牧师威尔鲍温被称为是美国最受推崇的心灵导师,他著有一本书叫作《不抱怨的世界》,相信很多人都听过。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">他组织推动了“21天不抱怨运动”,在两年的时间里,得到了全球80个国家、600万人的热烈响应,无数人改变了抱怨的习惯,因而改变了自己的命运。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">不抱怨的时间,自然会被用来做更有意义的事情,改变也就是这样一点点积攒起来的。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);"><span style="word-break: break-all; word-wrap: break-word; text-decoration: underline;">抱怨看似是一种宣泄,但其背后隐藏的危害是巨大的,长期爱抱怨的人,无论从外形、神态,还是行动力方面来说,都会受到黑暗力量的摧残,凡事都往消极方向想,对生活没有希望,得过且过,是非常可怕的一剂人生催老剂。</span></p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">所以,每个人都应该在抱怨这件事情上,适可而止,严格自律,只有这样,你才会重回阳光下,有正常积极的心态去面对生活的考验,收获各种幸福。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">说到底,抱怨就是你对一件事情的反应。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">费斯汀格法则是这样说的:<strong>生活的10%是由发生在你身上的事情组成,而另外的90%则由你对所发生事情的态度决定。</strong></p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">这个法则告诉我们,对待事情的态度直接决定了我们会过怎样的生活,而态度是可控的,关键是你的选择,你控制的度。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">往往一个坏习惯的养成,都是在不知不觉中形成的,也是一次次对自己惰性的默许。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">凡事都尽量以乐观的心态面对,当内心的暗黑能量抬头时,用意志力去压制它。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">每日反思,如何让不尽如人意的地方,变得合自己心意,其实,抱怨和建议之间只隔了一层窗户纸那么薄的距离。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);"><span style="word-break: break-all; word-wrap: break-word; background-color: rgb(165, 165, 165);"><strong>&nbsp; 04 &nbsp;</strong></span></p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);"><strong>那些成天抱怨的人,知道自己这么做不好吗?</strong></p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">我想多少是知道的,但抱怨后的快感大过内心微小的自惭,所以他们选择忽略。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">抱怨就是这么一种先让你畅快,然后心里依然落寞的放纵,但是自律就不同,它通常在坚持的时候十分艰难,但是辛苦过后却是欣慰,因为你会看到自己在慢慢变好。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">“跳舞不好的人,总是抱怨鞋子。”</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">这是一句比利时谚语,生动地描述了喜欢抱怨的人的特点——从来不在自己身上找原因,却会对别人提出严苛的要求。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">世界对你的态度取决于你对世界的态度,做一个对世界温柔以待的人,也一定会得到善待。</p><p style="padding: 0.6em 0px; margin-top: 0px; margin-bottom: 0px; word-break: break-all; word-wrap: break-word; line-height: 1.7em; font-size: 18.2px; color: rgb(76, 76, 76); font-family: Arial; white-space: normal; background-color: rgb(255, 255, 255);">让我们坚持21天不抱怨,看看生活会有什么样的改变。</p><p><br/></p>            </div>
+            <div class="aboutCont">
+              上一篇：<a href="75">一个48岁的自恋狂研究员</a><br/>              下一篇：<a href="77">萨提亚：精神分裂症与家庭治疗</a><br/>            </div>
+        </div>    </div>
+
+</div>
+
+<!--内容结束-->
+<!--footer开始-->
+<div class="footer">
+	<div class="footerMain">
+    	<div class="f-left"><p>在线咨询，扫一扫！</p><img src="../../../Public/images/xinli.jpg" /></div>
+        <div class="f-right">
+        	<h2>在线心理咨询</h2>
+            <h3>158 9170 2634</h3>
+            <p>QQ：1603869451&nbsp;&nbsp;&nbsp;微信：flhs228&nbsp;&nbsp;&nbsp;邮箱：1603869451@qq.com</p>
+            <p>备案号：beianbeianbeian</p>
+            <p>Copyright © 2016.版权版权</p>
+            <p>技术支持：kkkkkk</p>
+        </div>
+    </div>
+</div>
+<!--footer结束-->
+<!--友情链接开始-->
+<div class="friendMain">
+  <div class="container">
+	<div class="indexTeam">
+        <ul class="friendLinks">
+           
+      	</ul>
+    </div>
+  </div>
+</div>
+<!--友情链接结束-->
+</body>
+</html>

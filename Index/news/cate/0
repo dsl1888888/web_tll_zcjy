@@ -1,0 +1,160 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<title>在线心理咨询-知识文章</title>
+<link rel="stylesheet" href="../../../Public/css/public.css" type="text/css" />
+<link rel="stylesheet" href="../../../Public/css/response.css" type="text/css" />
+<script type="text/javascript" src="../../../Public/js/jquery-1.8.0.min.js"></script>
+ <!--<script type="text/javascript" src="/Public/js/index.js"></script>-->
+<script src="https://cdn.bootcss.com/flexslider/2.6.4/jquery.flexslider-min.js"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?1116e99ce7e5027bf84da9e356a7a16e";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/Public/js/html5shiv.js"></script>
+<![endif]-->
+</head>
+<body>
+<!--头部开始-->
+<div class="header">
+	<div class="top-info">
+    	<a href="0#">158 9170 2634</a>
+        <a href="0#">flhs228</a>
+        <a href="0#">1603869451</a>
+    </div>
+    <div class="comName"><span>在线心理咨询</span></div>
+    <!--手机导航开始-->
+    <div class="nav2">
+        <dl class="layout1Dl">
+            <dt class="layout1Dt">
+                <a href="0#">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+            </dt>
+            <dd class="layout1Dd">
+                <a href="../../../index.html">首页</a>
+                <a href="../../counselor">咨询介绍</a>
+                <a href="../../service">服务内容</a>
+                <a href="../../feedback">真实反馈</a>
+                <a href="../../news.1">知识文章</a>
+                <a href="../../contact">寻找同道</a>
+            </dd>
+        </dl>
+    </div>
+    <!--手机导航结束-->
+    <div class="nav">
+    	<ul>
+        	<li><a href="../../index">首页</a></li>
+            <li><a href="../../counselor">咨询介绍</a></li>
+            <li><a href="../../service">服务内容</a></li>
+            <li><a href="../../feedback">真实反馈</a></li>
+            <li class="activeN"><a href="../../news.1">知识文章</a></li>
+            <li><a href="../../contact">寻找同道</a></li>
+        </ul>
+    </div>
+</div>
+<!--头部结束-->
+<!--焦点图开始-->
+<div class="flexslider">
+    <ul class="slides">
+        <li><a href="javascript:;" style="background:url('../../../Public/img/banner-1.jpg') no-repeat center top;background-size:auto 100%;"></a></li>
+        <li><a href="javascript:;" style="background:url('../../../Public/img/banner-1.jpg') no-repeat center top;background-size:auto 100%;"></a></li>
+    </ul>
+</div>
+<script>
+$(function(){
+    $('.flexslider').flexslider({
+        directionNav: false,
+        pauseOnAction: false,
+        touch:true,
+        slideshowSpeed:3000
+    });
+});
+</script>
+<!--焦点图结束-->
+<!--内容开始-->
+<div class="container">
+	<div class="left-Cont" id="save_cate">
+    	<h2>知识文章</h2>
+        <a class="activeL" href="1" onclick="saveData(this,1)">咨询案例  &gt;</a>
+        <a href="0" onclick="saveData(this,0)">咨询理论  &gt;</a>
+        <div></div>
+    </div>
+    <div class="right-Cont">
+    	<div class="crumbNav"><a href="../../index">首页</a><span>&gt;</span><a href="0#">
+          咨询理论          </a></div>
+        <div class="indexNews" id="get_list">
+            <dl>
+                <dt><img src="../../../Public/Uploads/2021-07-12/60ec11dfc972e.jpg" width="100%" /></dt>
+                <dd>
+                    <h4><a href="../../newCont/id/109">如果你的孩子不愿意麻烦别人，那他需要一个在线心理咨询师</a></h4>
+                    <p>如果人孤独地活在这个世界上会怎样？今天，我想说说回避型人格。什么是回避型人格在九型人格中，有一种不好</p>
+                    2021-07-12 17:00:00                </dd>
+            </dl><dl>
+                <dt><img src="../../../Public/Uploads/2021-07-12/60ec11a9bf81d.jpg" width="100%" /></dt>
+                <dd>
+                    <h4><a href="../../newCont/id/108">暑假期间应该如何给孩子找在线心理咨询师？</a></h4>
+                    <p>擦拭眼睛。暑假期间，做心理咨询的孩子比以前多得多。我和其他同事讨论过，发现他们也增加了。其中反映出一</p>
+                    2021-07-12 17:00:00                </dd>
+            </dl><dl>
+                <dt><img src="../../../Public/Uploads/2019-11-20/5dd4f5cd693e8.jpg" width="100%" /></dt>
+                <dd>
+                    <h4><a href="../../newCont/id/107">病由心生：70%以上疾病与负面情绪有关  让坏情绪远离你</a></h4>
+                    <p>&nbsp;世界卫生组织指出,当人产生了负面情绪时,七成以上的人就会以攻击自己的身体器官的方式消化这</p>
+                    2019-11-20 16:00:00                </dd>
+            </dl><dl>
+                <dt><img src="../../../Public/Uploads/2019-11-11/5dc901257bfbd.jpg" width="100%" /></dt>
+                <dd>
+                    <h4><a href="../../newCont/id/105">依赖型人格，你是吗?    西安心理咨询</a></h4>
+                    <p>01依赖型人格的主要特征:依赖型人格是自主精神比较弱,独立意识比较缺少的人格。表现为依恋他人,敏感多</p>
+                    2019-11-11 14:00:00                </dd>
+            </dl>        </div>
+        <!--分页开始-->
+        <table class="page" width="100%" border="0">
+            <tr>
+                <td><div>  <span class="current">1</span><a class="num" href="http://www.xinlibcd.com/Index/news/cate/0/p/2.html">2</a><a class="num" href="http://www.xinlibcd.com/Index/news/cate/0/p/3.html">3</a><a class="num" href="http://www.xinlibcd.com/Index/news/cate/0/p/4.html">4</a><a class="num" href="http://www.xinlibcd.com/Index/news/cate/0/p/5.html">5</a><a class="num" href="http://www.xinlibcd.com/Index/news/cate/0/p/6.html">6</a><a class="num" href="http://www.xinlibcd.com/Index/news/cate/0/p/7.html">7</a><a class="num" href="http://www.xinlibcd.com/Index/news/cate/0/p/8.html">8</a><a class="num" href="http://www.xinlibcd.com/Index/news/cate/0/p/9.html">9</a><a class="num" href="http://www.xinlibcd.com/Index/news/cate/0/p/10.html">10</a><a class="num" href="http://www.xinlibcd.com/Index/news/cate/0/p/11.html">11</a> <a class="next" href="http://www.xinlibcd.com/Index/news/cate/0/p/2.html">下一页</a> <a class="end" href="http://www.xinlibcd.com/Index/news/cate/0/p/14.html">14</a></div></td>
+            </tr>
+        </table>
+        <!--分页结束-->
+    </div>
+</div>
+<!--内容结束-->
+<!--footer开始-->
+<div class="footer">
+	<div class="footerMain">
+    	<div class="f-left"><p>在线咨询，扫一扫！</p><img src="../../../Public/images/xinli.jpg" /></div>
+        <div class="f-right">
+        	<h2>在线心理咨询</h2>
+            <h3>158 9170 2634</h3>
+            <p>QQ：1603869451&nbsp;&nbsp;&nbsp;邮箱：1603869451@qq.com</p>
+            <p>备案号：beianbeianbeian</p>
+            <p>Copyright © 2016.版权版权</p>
+            <p>技术支持：kkkkkk</p>
+        </div>
+    </div>
+</div>
+<!--footer结束-->
+<!--友情链接开始-->
+<div class="friendMain">
+  <div class="container">
+	<div class="indexTeam">
+        <ul class="friendLinks">
+          
+      	</ul>
+    </div>
+  </div>
+</div>
+<!--友情链接结束-->
+</body>
+</html>

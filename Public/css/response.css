@@ -1,0 +1,376 @@
+@charset "utf-8";
+@media screen and (min-width:1024px){
+/*内容页*/
+	.container{width:90%;height:auto;overflow:hidden;margin:10px auto;}
+	.h1Title{height:auto;color:#2A2948;text-align:center;font-weight:normal;margin:40px 0;}
+	.h1Title div{display:inline-block;padding:0px 100px;background:url(../images/h1Title-bg.gif) repeat-x left center;}
+	.h1Title div span{background:#FFF;display:block;line-height:40px;font-size:25px;padding:0px 10px;}
+	.h1Title div span.noWhite{background:#F4F4F4;}
+	
+/******************************************首页***************************************/
+/**咨询师介绍**/
+.indexSevice{height:auto;overflow:hidden;padding:15px 0;}
+.indexSevice-right{width:90%;margin:0px auto}
+.indexSevice-right p{font-size:16px;margin:0 0 20px;}
+.indexSevice-right b{font-size:16px;color:#222;}
+/**服务内容**/
+.indexTeam-Main{background:#f4f4f4;padding:15px 0;}
+.indexTeam{width:90%;margin:30px auto 20px;}
+
+.indexTeam-List{height:auto;overflow:hidden;width:100%;}
+.indexTeam-List dl{width:33.33%;float:left;}
+.indexTeam-List dl dt img{width:70%;margin:0px auto;}
+.indexTeam-List dl dd{width:80%;margin:10px auto;}
+.indexTeam-List dl h3{text-align:center;font-size:22px;color:#2A2948;margin:0 0 15px;font-weight:normal;}
+.indexTeam-List dl p{font-size:16px;color:#666;}
+
+/**专业问答**/
+.askingList{height:auto;overflow:hidden;}
+.askingList dl{height:auto;overflow:hidden;margin: 0 0 20px 0;}
+.askingList dl dd{font-size:14px;color:#777;line-height:26px;background:url(../images/answerIco.gif) no-repeat left top;background-size:60px 60px;padding:0 0 0 100px;}
+.customIndex{border:1px solid #DDD;border-bottom-width:4px;background:#F8F8F8;border-radius:5px;padding:15px 20px;position:relative;}
+.customIndex>i{display:block;width:30px;height:30px;position:absolute;left:-30px;top:25px;}
+.customIndex>div{padding:0 20px;text-align:justify;font-size:14px;color:#777;line-height:27px;}
+.customIndex>p{height:25px;}
+
+/**新闻资讯**/
+.indexNews{height:auto;overflow:hidden;}
+.indexNews .h1Title{margin-bottom:10px;}
+
+.indexNewType{text-align:center;padding:10px;margin:0 0 20px;}
+.indexNewType a{display:inline-block;padding:5px 20px;margin:0px 10px;border-radius:3px;color:#999;border:1px solid #BBB;border-bottom-width:4px;}
+.indexNewType a.active,.indexNewType a:hover{border:1px solid #2A2948;border-bottom-width:4px;color:#2A2948;}
+.indexNewMain>div{display:none;}
+
+.indexNews dl{width:50%;float:left;height:100px;overflow:hidden;margin:0 0 20px 0;}
+.indexNews dl dt{width:35%;float:left;height:100px;border-radius:5px;overflow:hidden;}
+.indexNews dl dd{width:60%;height:100px;float:left;margin-left:2%;color:#A9A9A9;font-size:13px;}
+.indexNews dl dd h4,.indexNews dl dd a{color:#333;font-size:18px;font-weight:normal;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.indexNews dl dd a:hover{color:#006FFF;}
+.indexNews dl dd p{margin:8px 0 5px;color:#888;font-size:14px;height:44px;overflow:hidden;}
+
+
+/*******************************************新闻************************************************************/
+.left-Cont{width:20%;float:left;height:auto;overflow:hidden;padding-bottom:25px;margin:20px 0 0;}
+.left-Cont h2{background:#2A2948;color:#FFF;height:35px;line-height:35px;text-align:center;font-size:17px;}
+.left-Cont a{display:block;height:30px;line-height:30px;text-align:center;background:#FFF;font-size:14px;color:#666;border-top:1px solid #EEE;}
+.left-Cont a:hover{color:#2A2948;}
+.left-Cont div{background:url(../images/leftBg.gif) no-repeat center top;background-size:100% auto;height:20px;}
+.right-Cont{float:right;background:#FFF;width:74.5%;margin:20px 0 10px;padding:0 2%;}
+
+
+/*************************同道************************************************************/
+.left-Cont a.activeL{color:#2A2948;}
+.lawList{height:auto;overflow:hidden;margin:0 0 20px;}
+.lawList li{border-bottom:1px dashed #EDEDED;height:40px;line-height:40px;overflow:hidden;}
+.lawList li span{float:right;display:block;line-height:40px;color:#999;font-size:13px;width:19%;text-align:right}
+.lawList li>a{max-width:80%;float:left;line-height:40px;font-size:15px;display:inline-block;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;}
+.lawList li>a:hover{color:#006FFF;text-decoration:underline;}
+
+/**详情**/
+.lawCont{height:auto;overflow:hidden;}
+.lawCont h1{font-size:16px;text-align:center;}
+.lawContInfo{text-align:center;border-bottom:1px dashed #E2E2E2;margin:10px 0;padding:0 0 5px 0;}
+.lawContInfo span{margin:0px 5px;color:#888;}
+.lawContDiv{height:auto;overflow:hidden;text-indent:30px;line-height:26px;font-size:14px;color:#666;text-align:justify;}
+.lawContDiv p{text-indent:30px;line-height:26px;font-size:14px;color:#666;text-align:justify;}
+.lawContDiv img{display:block;margin:10px auto 15px;max-width:100%;}
+
+.aboutCont{border-top:1px solid #E2E2E2;margin:20px 0 0;padding:10px 0;color:#666;font-size:13px;line-height:25px;}
+.aboutCont a{font-size:13px;}
+
+/*************************服务内容************************************************************/
+.serviceCont li{margin:0 0 30px;}
+.serviceCont li>h2{font-size:16px;margin:0 0 10px;}
+.serviceCont li>p{font-size:15px;margin:0 0 10px;}
+
+/**************************咨询师************************************************************/
+.counImg{height:auto;overflow:hidden;border-top:1px solid #DDD;padding:20px 0;margin:20px 0 0;}
+.counImg img{width:31.33%;margin:0 1% 20px;height:300px;min-height:300px;max-height:400px;float:left}
+
+}
+
+
+@media screen and (min-width:768px) and (max-width:1024px){
+/*内容页*/
+	.container{width:90%;height:auto;overflow:hidden;margin:10px auto;}
+	.h1Title{height:auto;color:#2A2948;text-align:center;font-weight:normal;margin:20px 0;}
+	.h1Title div{display:inline-block;padding:0px 100px;background:url(../images/h1Title-bg.gif) repeat-x left center;}
+	.h1Title div span{background:#FFF;display:block;line-height:40px;font-size:25px;padding:0px 10px;}
+	.h1Title div span.noWhite{background:#F4F4F4;}
+	
+/*************************************首页**********************************/
+/**咨询师介绍**/
+.indexSevice{height:auto;overflow:hidden;padding:15px 0;}
+.indexSevice-right{width:90%;margin:0px auto}
+.indexSevice-right p{font-size:16px;margin:0 0 20px;}
+.indexSevice-right b{font-size:16px;color:#222;}
+/**服务内容**/
+.indexTeam-Main{background:#f4f4f4;padding:15px 0;}
+.indexTeam{width:90%;margin:40px auto 20px;}
+
+.indexTeam-List{height:auto;overflow:hidden;width:100%;}
+.indexTeam-List dl{width:33.33%;float:left;}
+.indexTeam-List dl dt img{width:95%;margin:0px auto;}
+.indexTeam-List dl dd{width:80%;margin:10px auto;}
+.indexTeam-List dl h3{text-align:center;font-size:20px;color:#2A2948;margin:0 0 10px;font-weight:normal;}
+
+/**专业问答**/
+.askingList{height:auto;overflow:hidden;}
+.askingList dl{height:auto;overflow:hidden;margin: 0 0 20px 0;}
+.askingList dl dd{font-size:14px;color:#777;line-height:26px;background:url(../images/answerIco.gif) no-repeat left top;background-size:60px 60px;padding:0 0 0 100px;}
+.customIndex{border:1px solid #DDD;border-bottom-width:4px;background:#F8F8F8;border-radius:5px;padding:10px 20px;position:relative;}
+.customIndex>i{display:block;width:30px;height:30px;position:absolute;left:-30px;top:25px;}
+.customIndex>div{padding:0 20px;text-align:justify;font-size:14px;color:#777;line-height:27px;}
+.customIndex>p{height:25px;}
+
+/**新闻资讯**/
+.indexNews{height:auto;overflow:hidden;}
+
+.indexNewType{text-align:center;padding:10px;margin:0 0 20px;}
+.indexNewType a{display:inline-block;padding:5px 20px;margin:0px 10px;border-radius:3px;color:#999;border:1px solid #BBB;border-bottom-width:4px;}
+.indexNewType a.active,.indexNewType a:hover{border:1px solid #2A2948;border-bottom-width:4px;color:#2A2948;}
+.indexNewMain>div{display:none;}
+
+.indexNews dl{height:100px;overflow:hidden;margin:0 0 20px 0;}
+.indexNews dl dt{width:35%;float:left;height:100px;}
+.indexNews dl dd{width:60%;height:100px;float:left;margin-left:2%;color:#A9A9A9;font-size:13px;}
+.indexNews dl dd h4,.indexNews dl dd a{color:#333;font-size:18px;font-weight:normal;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.indexNews dl dd a:hover{color:#006FFF;}
+.indexNews dl dd p{margin:8px 0 5px;color:#999;font-size:14px;height: 46px;
+overflow: hidden;}
+
+
+
+/************************************新闻************************************************************/
+.left-Cont{width:20%;float:left;height:auto;overflow:hidden;padding-bottom:25px;margin:20px 0 0;}
+.left-Cont h2{background:#2A2948;color:#FFF;height:35px;line-height:35px;text-align:center;font-size:17px;}
+.left-Cont a{display:block;height:30px;line-height:30px;text-align:center;background:#FFF;font-size:14px;color:#666;border-top:1px solid #EEE;}
+.left-Cont div{background:url(../images/leftBg.gif) no-repeat center top;background-size:100% auto;height:40px;}
+.right-Cont{float:right;background:#FFF;width:74.5%;margin:20px 0 10px;padding:0 2%;}
+.crumbNav{height:auto;overflow:hidden;border-bottom:1px solid #EDEDED;margin:0 0 10px;}
+.crumbNav a{display:inline-block;height:35px;line-height:35px;float:left;font-size:14px;color:#888;}
+.crumbNav span{display:inline-block;height:35px;line-height:37px;float:left;margin:0 10px;font-family:"宋体";color:#888;}
+
+
+/*****************************同道************************************************************/
+.left-Cont a.activeL{color:#2A2948;}
+.lawList{height:auto;overflow:hidden;margin:0 0 20px;}
+.lawList li{border-bottom:1px dashed #EDEDED;height:40px;line-height:40px;overflow:hidden;}
+.lawList li span{float:right;display:block;line-height:40px;color:#999;font-size:13px;width:19%;text-align:right}
+.lawList li>a{max-width:80%;float:left;line-height:40px;font-size:15px;display:inline-block;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;}
+.lawList li>a:hover{color:#006FFF;text-decoration:underline;}
+/**详情**/
+.lawCont{height:auto;overflow:hidden;}
+.lawCont h1{font-size:16px;text-align:center;}
+.lawContInfo{text-align:center;border-bottom:1px dashed #E2E2E2;margin:10px 0;padding:0 0 5px 0;}
+.lawContInfo span{margin:0px 5px;color:#888;}
+.lawContDiv{height:auto;overflow:hidden;}
+.lawContDiv p{text-indent:30px;line-height:26px;font-size:14px;color:#666;text-align:justify;}
+.lawContDiv img{display:block;margin:10px auto 15px;max-width:100%;}
+
+.aboutCont{border-top:1px solid #E2E2E2;margin:20px 0 0;padding:10px 0;color:#666;font-size:13px;line-height:25px;}
+.aboutCont a{font-size:13px;}
+
+/*************************服务内容************************************************************/
+.serviceCont li{margin:0 0 30px;}
+.serviceCont li>h2{font-size:16px;margin:0 0 10px;}
+.serviceCont li>p{font-size:15px;margin:0 0 10px;}
+
+/**************************咨询师************************************************************/
+.counImg{height:auto;overflow:hidden;border-top:1px solid #DDD;padding:20px 0;margin:20px 0 0;}
+.counImg img{width:31.33%;margin:0 1% 20px;min-height:200px;max-height:400px;float:left}
+	
+}
+
+
+@media screen and (min-width:480px) and (max-width:768px){
+/*内容页*/
+	.container{width:90%;height:auto;overflow:hidden;margin:10px auto;}
+	.h1Title{height:auto;color:#2A2948;text-align:center;font-weight:normal;margin:10px 0;}
+	.h1Title div{display:inline-block;padding:0px 100px;background:url(../images/h1Title-bg.gif) repeat-x left center;}
+	.h1Title div span{background:#FFF;display:block;line-height:40px;font-size:25px;padding:0px 10px;}
+	.h1Title div span.noWhite{background:#F4F4F4;}
+	
+/************************************首页******************************/
+/**咨询师介绍**/
+.indexSevice{height:auto;overflow:hidden;padding:15px 0;}
+.indexSevice-right{width:100%;margin:0px auto}
+.indexSevice-right p{font-size:16px;margin:0 0 20px;}
+.indexSevice-right b{font-size:16px;color:#222;}
+/**服务内容**/
+.indexTeam-Main{background:#f4f4f4;padding:15px 0;}
+.indexTeam{width:90%;margin:20px auto 10px;}
+
+.indexTeam-List{height:auto;overflow:hidden;width:100%;}
+.indexTeam-List dl{width:33.33%;float:left;}
+.indexTeam-List dl dt img{width:80%;margin:0px auto;}
+.indexTeam-List dl dd{width:80%;margin:10px auto;}
+.indexTeam-List dl h3{text-align:center;font-size:20px;color:#2A2948;margin:0 0 10px;font-weight:normal;}
+
+/**专业问答**/
+.askingList{height:auto;overflow:hidden;}
+.askingList dl{height:auto;overflow:hidden;margin: 0 0 20px 0;}
+.askingList dl dd{font-size:14px;color:#777;line-height:26px;background:url(../images/answerIco.gif) no-repeat left top;background-size:60px 60px;padding:0 0 0 100px;}
+.customIndex{border:1px solid #DDD;border-bottom-width:4px;background:#F8F8F8;border-radius:5px;padding:10px 20px;position:relative;}
+.customIndex>i{display:block;width:30px;height:30px;position:absolute;left:-30px;top:25px;}
+.customIndex>div{padding:0 15px;text-align:justify;font-size:14px;color:#777;line-height:27px;}
+.customIndex>p{height:25px;}
+
+/**新闻资讯**/
+.indexNews{height:auto;overflow:hidden;}
+
+.indexNewType{text-align:center;padding:10px;margin:0 0 20px;}
+.indexNewType a{display:inline-block;padding:5px 20px;margin:0px 10px;border-radius:3px;color:#999;border:1px solid #BBB;border-bottom-width:4px;}
+.indexNewType a.active,.indexNewType a:hover{border:1px solid #2A2948;border-bottom-width:4px;color:#2A2948;}
+.indexNewMain{height:auto;overflow:hidden;}
+.indexNewMain>div{display:none;}
+
+.indexNews dl{width:100%;float:left;height:100px;overflow:hidden;margin:0 0 15px 0;}
+.indexNews dl dt{width:35%;float:left;height:100px;display:block;}
+.indexNews dl dd{width:63%;float:right;height:100px;color:#A9A9A9;font-size:13px;}
+.indexNews dl dd h4,a{color:#333;font-size:18px;font-weight:normal;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.indexNews dl dd a:hover{color:#006FFF;}
+.indexNews dl dd p{margin:8px 0 5px;color:#999;line-height:22px;font-size:14px;height:44px;overflow:hidden;}
+
+
+
+/*******************新闻************************************************************/
+.left-Cont{height:auto;overflow:hidden;padding-bottom:20px;margin:20px 0 0;}
+.left-Cont h2{background:#2A2948;color:#FFF;height:35px;line-height:35px;text-align:center;font-size:17px;}
+.left-Cont a{display:block;height:37px;line-height:37px;text-align:center;background:#FFF;font-size:14px;color:#666;border-top:1px solid #EEE;}
+.left-Cont div{background:url(../images/leftBg.gif) no-repeat center top;background-size:100% auto;height:30px;}
+.right-Cont{background:#FFF;margin:0px 0 10px;padding:15px 2% 5px;}
+
+
+/****************************同道************************************************************/
+.left-Cont a.activeL{color:#2A2948;}
+.lawList{height:auto;overflow:hidden;margin:0 0 20px;}
+.lawList li{border-bottom:1px dashed #EDEDED;height:40px;line-height:40px;overflow:hidden;}
+.lawList li span{float:right;display:block;line-height:40px;color:#999;font-size:13px;width:19%;text-align:right}
+.lawList li>a{max-width:80%;float:left;line-height:40px;font-size:15px;display:inline-block;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;}
+.lawList li>a:hover{color:#006FFF;text-decoration:underline;}
+
+/**详情**/
+.lawCont{height:auto;overflow:hidden;}
+.lawCont h1{font-size:16px;text-align:center;}
+.lawContInfo{text-align:center;border-bottom:1px dashed #E2E2E2;margin:10px 0;padding:0 0 5px 0;}
+.lawContInfo span{margin:0px 5px;color:#888;}
+.lawContDiv{height:auto;overflow:hidden;}
+.lawContDiv p{text-indent:30px;line-height:26px;font-size:14px;color:#666;text-align:justify;}
+.lawContDiv img{display:block;margin:10px auto 15px;max-width:100%;}
+
+.aboutCont{border-top:1px solid #E2E2E2;margin:20px 0 0;padding:10px 0;color:#666;font-size:13px;line-height:25px;}
+.aboutCont a{font-size:13px;}
+
+/*************************服务内容************************************************************/
+.serviceCont li{margin:0 0 30px;}
+.serviceCont li>h2{font-size:16px;margin:0 0 10px;}
+.serviceCont li>p{font-size:15px;margin:0 0 10px;}
+
+/**************************咨询师************************************************************/
+.counImg{height:auto;overflow:hidden;border-top:1px solid #DDD;padding:20px 0;margin:20px 0 0;}
+.counImg img{width:48%;margin:0 1% 20px;min-height:250px;max-height:400px;float:left}
+
+}
+
+
+@media screen and (max-width:480px){
+/*内容页*/
+	.container{width:90%;height:auto;overflow:hidden;margin:10px auto;}
+	.h1Title{height:auto;color:#2A2948;text-align:center;font-weight:normal;margin:10px 0;}
+	.h1Title div{display:inline-block;padding:0px 100px;background:url(../images/h1Title-bg.gif) repeat-x left center;}
+	.h1Title div span{background:#FFF;display:block;line-height:40px;font-size:18px;padding:0px 5px;}
+	.h1Title div span.noWhite{background:#F4F4F4;}
+	
+/********************************************首页*************************************************************/
+/**咨询师介绍**/
+.indexSevice{height:auto;overflow:hidden;padding:15px 0;}
+.indexSevice-right{width:100%;margin:0px auto}
+.indexSevice-right p{font-size:16px;margin:0 0 20px;}
+.indexSevice-right b{font-size:16px;color:#222;}
+/**服务内容**/
+.indexTeam-Main{background:#f4f4f4;padding:15px 0;}
+.indexTeam{width:90%;margin:20px auto;}
+
+.indexTeam-List{height:auto;overflow:hidden;width:100%;}
+.indexTeam-List dl{width:100%;}
+.indexTeam-List dl dt img{width:80%;margin:0px auto;}
+.indexTeam-List dl dd{width:100%;margin:10px auto;text-align:justify}
+.indexTeam-List dl h3{text-align:center;font-size:18px;color:#2A2948;margin:0 0 10px;font-weight:normal;}
+.indexTeam-List dl dd p{font-size:14px;}
+
+/**专业问答**/
+.askingList{height:auto;overflow:hidden;}
+.askingList dl{height:auto;overflow:hidden;margin: 0 0 20px 0;}
+.askingList dl dd{font-size:14px;color:#777;line-height:26px;background:url(../images/answerIco.gif) no-repeat left top;background-size:30px 30px;padding:0 0 0 50px;}
+.customIndex{border:1px solid #DDD;border-bottom-width:4px;background:#F8F8F8;border-radius:5px;padding:10px 10px;position:relative;}
+.customIndex>i{display:block;width:18px;height:18px;position:absolute;left:-18px;top:13px;}
+.customIndex>div{padding:0 10px;text-align:justify;font-size:14px;color:#777;line-height:27px;}
+.customIndex>p{height:25px;display:none;}
+
+
+/**新闻资讯**/
+.indexNews{height:auto;overflow:hidden;}
+.indexNewType{text-align:center;padding:10px;margin:0 0 20px;}
+.indexNewType a{display:inline-block;padding:5px 20px;margin:0px 10px;border-radius:3px;color:#999;border:1px solid #BBB;border-bottom-width:4px;}
+.indexNewType a.active,.indexNewType a:hover{border:1px solid #2A2948;border-bottom-width:4px;color:#2A2948;}
+.indexNewMain{height:auto;overflow:hidden;}
+.indexNewMain>div{display:none;}
+
+.indexNews dl{width:100%;float:left;height:100px;overflow:hidden;margin:0 0 15px 0;}
+.indexNews dl dt{width:35%;float:left;height:100px;display:block;}
+.indexNews dl dd{width:63%;float:right;height:100px;color:#A9A9A9;font-size:13px;}
+.indexNews dl dd h4,a{color:#333;font-size:18px;font-weight:normal;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.indexNews dl dd a:hover{color:#006FFF;}
+.indexNews dl dd p{margin:0px 0 0px;color:#999;line-height:21px;font-size:14px;height:42px;overflow:hidden;}
+
+
+/***********************************新闻************************************************************/
+.left-Cont{height:auto;overflow:hidden;padding-bottom:5px;margin:20px 0 0;}
+.left-Cont h2{background:#2A2948;color:#FFF;height:35px;line-height:35px;text-align:center;font-size:17px;}
+.left-Cont a{display:block;height:37px;line-height:37px;text-align:center;background:#FFF;font-size:14px;color:#666;border-top:1px solid #EEE;}
+.left-Cont div{background:url(../images/leftBg.gif) no-repeat center top;background-size:100% auto;height:25px;}
+.right-Cont{background:#FFF;margin:0px 0 10px;padding:15px 2% 5px;}
+
+
+/************************同道************************************************************/
+.left-Cont a.activeL{color:#2A2948;}
+.lawList{height:auto;overflow:hidden;margin:0 0 20px;}
+.lawList li{border-bottom:1px dashed #EDEDED;height:40px;line-height:40px;overflow:hidden;}
+.lawList li span{float:right;display:block;line-height:40px;color:#999;font-size:13px;width:39%;text-align:right}
+.lawList li>a{max-width:60%;float:left;line-height:40px;font-size:15px;display:inline-block;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;}
+.lawList li>a:hover{color:#006FFF;text-decoration:underline;}
+
+/**详情**/
+.lawCont{height:auto;overflow:hidden;}
+.lawCont h1{font-size:16px;text-align:center;}
+.lawContInfo{text-align:center;border-bottom:1px dashed #E2E2E2;margin:10px 0;padding:0 0 5px 0;}
+.lawContInfo span{margin:0px 5px;color:#888;}
+.lawContDiv{height:auto;overflow:hidden;}
+.lawContDiv p{text-indent:30px;line-height:26px;font-size:14px;color:#666;text-align:justify;}
+.lawContDiv img{display:block;margin:10px auto 15px;max-width:100%;}
+
+.aboutCont{border-top:1px solid #E2E2E2;margin:20px 0 0;padding:10px 0;color:#666;font-size:13px;line-height:25px;}
+.aboutCont a{font-size:13px;}
+
+/*************************服务内容************************************************************/
+.serviceCont li{margin:0 0 30px;}
+.serviceCont li>h2{font-size:16px;margin:0 0 10px;}
+.serviceCont li>p{font-size:15px;margin:0 0 10px;}
+
+/**************************咨询师************************************************************/
+.counImg{height:auto;overflow:hidden;border-top:1px solid #DDD;padding:20px 0;margin:20px 0 0;}
+.counImg img{width:98%;margin:0 1% 20px;}
+
+}
+
+
+
+
+
+
+
+
+
+
